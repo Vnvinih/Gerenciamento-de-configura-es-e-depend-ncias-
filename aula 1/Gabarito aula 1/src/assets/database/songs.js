@@ -4,8 +4,7 @@ export const songsArray = [
     name: "Última Saudade - Ao Vivo",
     duration: "2:30",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
     id: 1,
   },
   {
@@ -13,8 +12,7 @@ export const songsArray = [
     name: "Xonei",
     duration: "2:34",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/xonei.mp3",
     id: 2,
   },
   {
@@ -22,8 +20,7 @@ export const songsArray = [
     name: "Paredões",
     duration: "2:55",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/paredoes.mp3",
     id: 3,
   },
   {
@@ -31,8 +28,7 @@ export const songsArray = [
     name: "Amigo Da Minha Saudade - Ao Vivo",
     duration: "2:30",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/amigo-da-minha-saudade.mp3",
     id: 4,
   },
   {
@@ -40,8 +36,7 @@ export const songsArray = [
     name: "Seja Ex - Ao Vivo",
     duration: "3:12",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/seja-ex.mp3",
     id: 5,
   },
   {
@@ -49,8 +44,7 @@ export const songsArray = [
     name: "De Trás Pra Frente - Ao Vivo",
     duration: "2:43",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/de-tras-pra-frente.mp3",
     id: 6,
   },
   {
@@ -58,8 +52,7 @@ export const songsArray = [
     name: "Aquela Pessoa - Ao Vivo",
     duration: "2:46",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/aquela-pessoa.mp3",
     id: 7,
   },
   {
@@ -67,8 +60,7 @@ export const songsArray = [
     name: "Meu Amor - Ao Vivo",
     duration: "2:54",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/meu-amor.mp3",
     id: 8,
   },
   {
@@ -76,8 +68,7 @@ export const songsArray = [
     name: "Como É Que A Gente Fica - Ao Vivo",
     duration: "2:43",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/como-e-que-a-gente-fica.mp3",
     id: 9,
   },
   {
@@ -85,8 +76,7 @@ export const songsArray = [
     name: "Romântico - Ao Vivo",
     duration: "3:03",
     artist: "Henrique & Juliano",
-    audio:
-      "https://jornada-fullstack.s3.us-east-2.amazonaws.com/ultima-saudade.mp3",
+    audio: "https://jornada-fullstack.s3.us-east-2.amazonaws.com/romantico.mp3",
     id: 10,
   },
   {
