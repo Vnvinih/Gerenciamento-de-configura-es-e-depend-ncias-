@@ -57,11 +57,12 @@ const Song = () => {
         </Link>
 
         <Player 
-         duration = {duration}  
-         randomIdFromArtist = {randomIdFromArtist}
-         randomId2FromArtist = {randomId2FromArtist}
-         audio = {audio}
-         />
+         key={id} // força a reinicialização do componente quando a música muda
+         duration={duration}  
+         randomIdFromArtist={randomIdFromArtist}
+         randomId2FromArtist={randomId2FromArtist}
+         audio={audio}
+        />
 
         <div>
           <p className='song__name'>{name}</p>

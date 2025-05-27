@@ -60,7 +60,22 @@ const Player = ({ duration, randomIdFromArtist, randomId2FromArtist, audio }) =>
 
   }, [isPlaying])
 
-  
+useEffect(() => {
+  if (audioPlayer.current) {
+    // Força o carregamento da nova música
+    audioPlayer.current.pause();
+    audioPlayer.current.load();
+    audioPlayer.current.currentTime = 0;
+
+    // Se quiser que comece a tocar automaticamente:
+    audioPlayer.current.play();
+    setIsPlaying(true);
+    setCurrentTime(formatTime(0));
+
+    // Atualiza a barra de progresso para 0%
+    progressBar.current?.style.setProperty("--_progress", "0%");
+  }
+}, [audio]);
   return (
     <div className="player">
       <div className="player__controllers">

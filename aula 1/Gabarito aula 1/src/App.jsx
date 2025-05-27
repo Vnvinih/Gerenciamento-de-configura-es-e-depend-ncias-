@@ -1,4 +1,4 @@
-import React from "react";
+
 import Header from "./components/Header";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 import Home from "./Pages/Home";
@@ -23,4 +23,4 @@ const App = () => {
   );
 };
 
-module.exports = app;
+export default App;
