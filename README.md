@@ -150,3 +150,31 @@ ajustadas. As mudanças foram motivadas por:
 - Ajustes na lógica de negócio com base em feedback do grupo;
 - As decisões foram documentadas via commits e no histórico de
 testes e auditoria.
+
+# CONCLUSÃO:
+
+O desenvolvimento do projeto "Player de Música - Temática Spotify"
+demonstrou a aplicação prática dos princípios de gerência de configuração e
+dependência ao longo de todo o ciclo de vida do software. A partir do
+planejamento e versionamento incremental (v0.2 até v1.0), foi possível organizar
+o progresso do sistema em etapas rastreáveis e auditáveis, com controle claro
+sobre mudanças, funcionalidades e artefatos produzidos.
+
+A estruturação do repositório com commits descritivos e uso de tags de
+versão permitiu acompanhar a evolução do sistema e manter a integridade do
+histórico. A documentação de releases, cenários de teste, relatórios de auditoria
+e ambiente de execução contribuiu para a transparência e reprodutibilidade do
+projeto, elementos fundamentais em um processo de configuração bem
+gerenciado.
+
+Além disso, a integração entre os testes (unitários, de integração e
+manuais) e o processo de entrega contínua assegurou que cada versão
+estivesse estável e validada antes de sua progressão. A prática de controle de
+mudanças consolidou uma base sólida para decisões técnicas, correções e
+melhorias, reforçando o papel da gerência de configuração como suporte à
+qualidade de software.
+
+Dessa forma, o projeto atendeu aos requisitos tanto funcionais quanto
+organizacionais, ilustrando com clareza os conceitos abordados na disciplina e
+seu impacto direto no sucesso de entregas controladas,
+confiáveis e sustentáveis.
