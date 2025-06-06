@@ -130,3 +130,23 @@ diferentes tamanhos de tela e dispositivos.
 - FORA DO ESCOPO: Busca de Conteúdo JUSTIFICATIVA: Ainda não faz parte do sistema;
 
 - FORA DO ESCOPO: Integração com API’s externas (Spotify etc) JUSTIFICATIVA: Projeto é local/ simulado no momento.
+
+# CONTROLE DE CONFIGURAÇÃO:
+
+O controle de configuração foi feito por meio de:
+
+- Git: sistema de versionamento distribuído;
+- Commits organizados: com mensagens descritivas;
+- Tags de versão: v0.2, v0.4, v0.6, v0.8 e v1.0;
+- Padronização de commits por funcionalidade.
+
+# CONTROLE DE MUDANÇAS:
+
+A cada release, foram registradas as funcionalidades adicionadas ou
+ajustadas. As mudanças foram motivadas por:
+
+- Correções de bugs identificados nos testes;
+- Melhorias na interface e responsividade;
+- Ajustes na lógica de negócio com base em feedback do grupo;
+- As decisões foram documentadas via commits e no histórico de
+testes e auditoria.
