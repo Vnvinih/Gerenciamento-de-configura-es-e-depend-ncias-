@@ -1,0 +1,13 @@
+Interface finalizada, responsiva e funcional.
+
+Backend local estável, simulando API de músicas.
+
+Testes completos:
+
+Testes unitários (formatSong);
+
+Testes de integração (API /songs);
+
+Testes manuais (funcionalidade e responsividade).
+
+Projeto concluído com estabilidade, usabilidade e documentação finalizada.
