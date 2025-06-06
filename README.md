@@ -2,15 +2,15 @@
  
 # GRUPO:
 
-Guilherme Pietro Luna Diniz - 01576841
+Guilherme Pietro Luna Diniz - 01576841;
 
-Jenyffer Mery Gomes Andrade - 01599642
+Jenyffer Mery Gomes Andrade - 01599642;
 
-Luiz Vinicius Lima da Silva - 01603161
+Luiz Vinicius Lima da Silva - 01603161;
 
-Ronaldo de Souza Paixão Junior - 01604034
+Ronaldo de Souza Paixão Junior - 01604034;
 
-Rosilene da Silva Lima - 01619051
+Rosilene da Silva Lima - 01619051.
 
 # INTRODUÇÃO:
 
