@@ -119,4 +119,14 @@ imagem (se houver);
 tratamento de dados incompletos;
 
 - ÁREA DO SISTEMA: Interface responsiva FUNCIONALIDADES INCLUÍDAS: Verificação visual e funcional em
-diferentes tamanhos de tela e dispositivos. 
+diferentes tamanhos de tela e dispositivos.
+
+# FORA DO ESCOPO:
+
+- FORA DO ESCOPO: Login JUSTIFICATIVA: Não implementado;
+  
+- FORA DO ESCOPO: Playlist JUSTIFICATIVA: Não existe essa funcionalidade no projeto atual;
+
+- FORA DO ESCOPO: Busca de Conteúdo JUSTIFICATIVA: Ainda não faz parte do sistema;
+
+- FORA DO ESCOPO: Integração com API’s externas (Spotify etc) JUSTIFICATIVA: Projeto é local/ simulado no momento.
